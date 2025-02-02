@@ -1,2 +1,3 @@
 # SDEV141ClassProject
 class project for SDEV141
+This project will be completed as we move through the class...
